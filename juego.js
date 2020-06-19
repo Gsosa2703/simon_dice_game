@@ -4,7 +4,7 @@ const violeta = document.getElementById('violeta');
 const naranja = document.getElementById('naranja');
 const verde = document.getElementById('verde');
 const divNivel = document.getElementById('p-nivel');
-const ULTIMO_NIVEL = 3;
+const ULTIMO_NIVEL = 20;
 
 
 class Juego {

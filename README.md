@@ -2,7 +2,7 @@
 
 ## Simon says game
 
-Game of memorazing colors, final proyect in the course of Basics Javascript on Platzi 
+Game of memorazing colors, final proyect on the Basics Javascript course on Platzi 
 ### Lenguages used:
 - HTML
 - CSS
